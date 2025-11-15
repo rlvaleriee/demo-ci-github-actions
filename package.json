@@ -1,0 +1,22 @@
+{
+  "name": "demo-ci-github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "suma.test.js",
+  "scripts": { 
+  "test": "node test/suma.test.js", 
+  "build": "echo \"Construyendo el proyecto...\"" 
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlvaleriee/demo-ci-github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rlvaleriee/demo-ci-github-actions/issues"
+  },
+  "homepage": "https://github.com/rlvaleriee/demo-ci-github-actions#readme"
+}
